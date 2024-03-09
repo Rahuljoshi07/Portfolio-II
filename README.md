@@ -23,7 +23,7 @@ This is the second portfolio website created by me, showcasing his skills, proje
 
 ## Preview
 
-![Portfolio Preview](preview.png)
+![Screenshot_9-3-2024_225042_rahuljoshi07 github io (1)](https://github.com/Rahuljoshi07/portfolio/assets/86591216/9542851d-f413-4fee-a436-096d364d778c)
 
 ## Getting Started
 
